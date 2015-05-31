@@ -27,10 +27,10 @@ Laplace smoothing
 
 
  output :  
- 2015-05-31 17:28:42,503 [main] INFO fr.ia.core.Main - Probability Movie 0.5   
- 2015-05-31 17:28:42,507 [main] INFO fr.ia.core.Main - Probability Song 0.5    
- 2015-05-31 17:28:42,507 [main] INFO fr.ia.core.Main - 0.1578947368  
- 2015-05-31 17:28:42,507 [main] INFO fr.ia.core.Main - 0.1052631579  
- 2015-05-31 17:28:42,507 [main] INFO fr.ia.core.Main - 0.05263157895  
- 2015-05-31 17:28:42,507 [main] INFO fr.ia.core.Main - 0.1052631579  
- 2015-05-31 17:28:42,508 [main] INFO fr.ia.core.Main - 0.4285714285  
+ [main] INFO fr.ia.core.Main - Probability Movie 0.5   
+ [main] INFO fr.ia.core.Main - Probability Song 0.5    
+ [main] INFO fr.ia.core.Main - 0.1578947368  
+ [main] INFO fr.ia.core.Main - 0.1052631579  
+ [main] INFO fr.ia.core.Main - 0.05263157895  
+ [main] INFO fr.ia.core.Main - 0.1052631579  
+ [main] INFO fr.ia.core.Main - 0.4285714285  
